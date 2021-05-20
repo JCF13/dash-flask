@@ -1,0 +1,3 @@
+class Config():
+    FLASK_ENV='development'
+    SECRET_KEY='\xf8\xc6\x95\xa4J\xeb~aQ\x90\x99n=\xeb\xd2!\xcb}\xd9M\xe7\xc7\xa8\xa6'
